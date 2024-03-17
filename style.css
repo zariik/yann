@@ -1,0 +1,11 @@
+h1{
+    font-size: 100px;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: black;
+}
